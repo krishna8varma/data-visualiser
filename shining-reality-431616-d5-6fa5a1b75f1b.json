@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "shining-reality-431616-d5",
+  "private_key_id": "6fa5a1b75f1be795e63aaa85389dbca8278cfab1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDC3JPBfVUY6AQL\nFdAEf53B3HWGEOSjFOC4B08/dHaxscsrTC27YLuSExCuxOIFLNCPqzO35qWojQ2n\n5AqgQWoTksNHAHP7mAfxja/oyxJ6buQPCzHYlsBoeFluPfCOISNzN4PHWamfdUgv\nJW2MtU5rFqARubVDqOAgY5gxEopELbpJytyGgWgs2gEklOy8s2/3i4GyIG5LP2eB\nMUN3fEfdP8VjflX3cvCmR0+EvkNZ/CvUMinaEez4GkmlE4Bbvpmm8WgbK9PQVNXR\nS1H444zs9ZtS6XLfQtCi08H6lC+Ku51aIGDkYM/cB+gagCQYLSq2ZPjSIbac+9aZ\nshDHIHOZAgMBAAECggEAJxrdDBd63GSzawYVmNGDd0Qm0aDSQWgPMN9GqBVXPJHR\nk/7VrqTa/5WT437fXOqBcFOLLXy8AfdMpkS9XSvDfeoWBkmw/Oylq3QjuTQHoUpf\nuiUk+7JFKrH8QINtoxhDZPvfFkKIJ9gBhHSeZ357HkKMHQKHvexGDjnucOqnlMa+\n1NoHCRVdtOlKJEDYuTJXWXmP01AUjhpNJBmth4Q4KMWxTz4Cdm1xZXLS4+tuzbC3\n6zCmp7RuCoMRkPJvdjTfcmYwZdF26bfuhE0oYNdQrLFYtvmpmiVBeJxSwVPzFYPl\nZDf0TKRjDGrXoYN9xSdL5+dpFszRIpKmH/UukHWZgQKBgQDiPUtJgLgNdlkg5JaT\neFphZkoUPc6C5ymyP0SdtL+jFfEJOpkmd4jKkx0RnzqVqaIRcxnlapGMP2sBkkoa\npevjPgWY6Dgkzlgz4GxMrMI0SFnwpth60VHQwDOS6obu0XGS3PXqNMk6H29aEeyi\ngJHnE0+kbx+Ae4kx4KuaVlmkOwKBgQDcfp9ruJ7d8EtT1yMoLRYWb0qW76Z6EFS1\n6VgPoCItjqsI/P8AYvP2XnNETjB44PH5cl5N7WrG5JNUJCYyd3OdWnxC0b9tE8Lb\nUYAY9O8s9smnZVL7Z/fvu22CkrlkCw+XGY7kOMQgT1K25wk+J2Qel37jDx4WEI6A\n21/fmI8uOwKBgGDDEnZHhXDMk2ZMHlLIgO9zjm+F19OJBv5jrPc+nVAlTEhENciM\nC4eI0D//OFFWkiigcAz9PW8cmKm9ZdBr8q3okwBJIeosDvFxJSDOKumtoDobQi+V\nY0bDTcuiXz+5eLf1pYAcP4yKcVe2nt0J3F1WlxOfK3wKWi1pCDwkfoaNAoGADfgX\nsYNozTbEDvO6TnlMxO8YEqfsLB+MvlmiMps6jxhSzab5oNSkEB+7vcAWYhIeQmd0\nggtgkGk6zEHeCaR3tqhc5v7S2d4+ohZvvyUFYhvgerJ4p2TW2GFPds5E4Imy2yfL\nXboa8tETtHK+qyljtmxypX/3r/4siQ1c7ZWEvLECgYADlSn91Yy0Aq8Sf+yxU3dB\nch3oHqapRDahbHboPNOWx1fQNIqRTSfmrIIPbzPQ00yswRjU7ru8NDXOVSMkGODf\n3owBk3pnNZJzRnyIjyfsPpPUF2lRpkfxenfpM7R+i3hmSC3aYmTLjsSxmCY1VIlK\nAn+gCPFpnuBpJCymde6Kmg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "solar-dryer@shining-reality-431616-d5.iam.gserviceaccount.com",
+  "client_id": "114008855893744940682",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/solar-dryer%40shining-reality-431616-d5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
