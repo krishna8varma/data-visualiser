@@ -1,10 +1,10 @@
-import os
+import json
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
+from google.oauth2 import service_account
 import gspread
-from oauth2client.service_account import ServiceAccountCredentials
 
 # Streamlit app configuration
 st.set_page_config(page_title='Data Visualiser', layout="centered", page_icon="📊")
