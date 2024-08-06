@@ -13,7 +13,9 @@ st.title("📊 Data Visualiser")
 # Google Sheets setup
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
 creds_json = st.secrets["GOOGLE_SHEET_CREDS"]
-creds = ServiceAccountCredentials.from_json_keyfile_dict(json.loads(creds_json), scope)
+creds_dict = json.loads(creds_json)
+
+creds = service_account.Credentials.from_service_account_info(creds_dict
 client = gspread.authorize(creds)
 
 # Fetch list of Google Sheets
