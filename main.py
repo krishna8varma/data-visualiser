@@ -12,7 +12,7 @@ st.title("📊 Data Visualiser")
 
 # Google Sheets setup
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
-creds = ServiceAccountCredentials.from_json_keyfile_name('shining-reality-431616-d5-da26947fd297.json', scope)
+creds = ServiceAccountCredentials.from_json_keyfile_name('shining-reality-431616-d5-de532c5c294d.json', scope)
 client = gspread.authorize(creds)
 
 # Fetch list of Google Sheets
