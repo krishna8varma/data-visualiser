@@ -11,10 +11,9 @@ st.set_page_config(page_title='Data Visualiser', layout="centered", page_icon="ð
 st.title("ðŸ“Š Data Visualiser")
 
 # Google Sheets setup
-scope = ['https://www.googleapis.com/auth/spreadsheets','https://www.googleapis.com/auth/drive']
-
-
-creds = ServiceAccountCredentials.from_json_keyfile_name('shining-reality-431616-d5-d7940f44d122.json', scope)
+scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
+creds_json = st.secrets["GOOGLE_SHEET_CREDS"]
+creds = ServiceAccountCredentials.from_json_keyfile_name(creds_json, scope)
 client = gspread.authorize(creds)
 
 # Fetch list of Google Sheets
