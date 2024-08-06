@@ -15,7 +15,7 @@ scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/au
 creds_json = st.secrets["GOOGLE_SHEET_CREDS"]
 creds_dict = json.loads(creds_json)
 
-creds = service_account.Credentials.from_service_account_info(creds_dict
+creds = service_account.Credentials.from_service_account_info(creds_dict)
 client = gspread.authorize(creds)
 
 # Fetch list of Google Sheets
